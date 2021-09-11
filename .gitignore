@@ -1,0 +1,13 @@
+*.iml
+.gradle
+.idea
+.DS_Store
+config.info
+/app/build
+/build
+/captures
+.externalNativeBuild
+.cxx
+/local.properties
+/app/docs
+/app/src/main/java/com/skdev/ytlivevideo/util/Credentials.kt
